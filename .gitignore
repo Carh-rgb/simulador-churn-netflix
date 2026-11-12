@@ -1,0 +1,15 @@
+# Generados al ejecutar el proyecto
+graficas/
+netflix_churn_limpio.csv
+comparacion_modelos.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Presentaciones y empaquetados (no hacen falta para la app)
+*.pptx
+*.zip
